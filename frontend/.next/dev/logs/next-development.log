@@ -1,0 +1,21 @@
+{"timestamp":"00:00:40.492","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:06:26.642","source":"Server","level":"LOG","message":"○ Compiling /onboarding/page ..."}
+{"timestamp":"00:16:50.800","source":"Server","level":"LOG","message":"○ Compiling /page ..."}
+{"timestamp":"00:17:18.729","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:23:07.742","source":"Server","level":"WARN","message":"⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload"}
+{"timestamp":"00:29:08.724","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:29:21.696","source":"Server","level":"LOG","message":"○ Compiling /onboarding/page ..."}
+{"timestamp":"00:31:42.610","source":"Server","level":"LOG","message":"○ Compiling /page ..."}
+{"timestamp":"00:32:37.046","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:09:40.864","source":"Server","level":"LOG","message":"○ Compiling /page ..."}
+{"timestamp":"02:10:13.723","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:16:57.178","source":"Server","level":"LOG","message":"○ Compiling /onboarding/page ..."}
+{"timestamp":"02:18:45.225","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:24:35.170","source":"Server","level":"LOG","message":"○ Compiling /page ..."}
+{"timestamp":"02:26:01.601","source":"Server","level":"LOG","message":"○ Compiling /services/page ..."}
+{"timestamp":"02:27:42.609","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:47:50.010","source":"Server","level":"LOG","message":"○ Compiling /onboarding/page ..."}
+{"timestamp":"02:56:04.362","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:57:42.462","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:58:12.204","source":"Browser","level":"WARN","message":"Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\"smooth\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior"}
+{"timestamp":"02:58:53.458","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mDetected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\\\"smooth\\\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior\\u001b[39m\""}
