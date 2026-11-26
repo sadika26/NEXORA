@@ -1,6 +1,6 @@
 
 "use client";
-
+import { Suspense } from "react";
 import { useSearchParams } from "next/navigation";
 import Link from "next/link";
 
@@ -43,7 +43,7 @@ const services = [
   },
 ];
 
-export default function ServicesPage() {
+function ServicesContent() {
   const searchParams = useSearchParams();
   const selectedId = searchParams.get("service");
 
@@ -113,5 +113,18 @@ export default function ServicesPage() {
         )}
       </div>
     </main>
+  );
+}
+export default function ServicesPage() {
+  return (
+    <Suspense
+      fallback={
+        <main className="min-h-screen bg-[#080d19] px-6 py-24 text-white">
+          Loading services...
+        </main>
+      }
+    >
+      <ServicesContent />
+    </Suspense>
   );
 }
