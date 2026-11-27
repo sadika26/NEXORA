@@ -18,7 +18,7 @@ app.get("/api/contact", (req, res) => {
 });
 
 app.get("/", (req, res) => {
-  res.send("NEXORA Backend API is running.");
+  res.send("LUVAYEN Backend API is running.");
 });
 
 mongoose

@@ -10,7 +10,7 @@ export default function OnboardingPage() {
           href="/"
           className="text-2xl font-bold tracking-wider"
         >
-          NEXORA<span className="text-cyan-400">.</span>
+          LUVAYEN<span className="text-cyan-400">.</span>
         </Link>
 
         <Link
@@ -39,7 +39,7 @@ export default function OnboardingPage() {
           </h1>
 
           <p className="mt-8 max-w-2xl text-lg leading-8 text-gray-400">
-            Welcome to NEXORA. Discover a smarter way to manage
+            Welcome to LUVAYEN. Discover a smarter way to manage
             your digital experience, connect your business tools,
             and build a foundation for growth.
           </p>
@@ -134,14 +134,14 @@ export default function OnboardingPage() {
             href="/#contact-form"
             className="mt-8 inline-block rounded-xl bg-cyan-400 px-8 py-4 font-semibold text-[#080d19] transition hover:bg-cyan-300"
           >
-            Contact NEXORA →
+            Contact LUVAYEN →
           </Link>
         </div>
       </section>
 
       {/* Footer */}
       <footer className="border-t border-white/10 px-6 py-8 text-center text-sm text-gray-500">
-        © {new Date().getFullYear()} NEXORA. All rights reserved.
+        © {new Date().getFullYear()} LUVAYEN. All rights reserved.
       </footer>
     </main>
   );

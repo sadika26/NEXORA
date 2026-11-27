@@ -42,7 +42,7 @@ export default function Home() {
         <nav className="mx-auto flex max-w-7xl items-center justify-between px-6 py-5 lg:px-10">
           <a href="#" className="flex items-center gap-3">
             <span className="flex h-10 w-10 items-center justify-center rounded-xl bg-blue-600 text-xl font-bold">N</span>
-            <span className="text-xl font-bold tracking-tight">NEXORA<span className="text-blue-400">.</span></span>
+            <span className="text-xl font-bold tracking-tight">LUVAYEN<span className="text-blue-400">.</span></span>
           </a>
 
         <div className="hidden items-center gap-9 text-sm text-slate-300 md:flex">
@@ -130,7 +130,7 @@ export default function Home() {
             <div className="relative rounded-2xl border border-white/10 bg-[#101a2d] p-5 shadow-2xl shadow-black/40 sm:p-7">
               <div className="flex items-center justify-between border-b border-white/10 pb-5">
                 <div>
-                  <p className="text-xs text-slate-500">NEXORA WORKSPACE</p>
+                  <p className="text-xs text-slate-500">LUVAYEN WORKSPACE</p>
                   <h3 className="mt-1 text-lg font-semibold">Business Overview</h3>
                 </div>
                 <span className="rounded-full border border-emerald-400/20 bg-emerald-400/10 px-3 py-1.5 text-xs text-emerald-400">● Live system</span>
@@ -193,7 +193,7 @@ export default function Home() {
         <div className="mx-auto max-w-7xl">
           <div className="max-w-3xl">
             <p className="text-sm font-semibold uppercase tracking-[0.2em] text-blue-400">
-              NEXORA Platform
+              LUVAYEN Platform
             </p>
             <h2 className="mt-5 text-4xl font-bold leading-tight text-white sm:text-5xl">
               One platform. Connected business solutions.
@@ -279,12 +279,12 @@ export default function Home() {
                 <h2 className="mt-5 text-3xl font-bold leading-tight sm:text-5xl">
                   Start your journey
                   <span className="block text-blue-400">
-                    with NEXORA.
+                    with LUVAYEN.
                   </span>
                 </h2>
 
                 <p className="mt-6 max-w-xl leading-8 text-slate-400">
-                  Discover how NEXORA can support your business.
+                  Discover how LUVAYEN can support your business.
                   Explore the onboarding experience and take the
                   first step toward smarter digital operations.
                 </p>
@@ -316,13 +316,13 @@ export default function Home() {
   <div className="mx-auto max-w-7xl">
     <div className="max-w-3xl">
       <p className="text-sm font-semibold uppercase tracking-[0.2em] text-blue-400">
-        About NEXORA
+        About LUVAYEN
       </p>
       <h2 className="mt-5 text-4xl font-bold leading-tight text-white sm:text-5xl">
         Technology that moves businesses forward.
       </h2>
       <p className="mt-6 leading-8 text-slate-400">
-        NEXORA helps businesses build modern digital experiences,
+        LUVAYEN helps businesses build modern digital experiences,
         manage content efficiently and connect customer workflows
         through integrated technology solutions.
       </p>
@@ -358,7 +358,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="border-t border-white/10">
         <div className="mx-auto flex max-w-7xl flex-col justify-between gap-5 px-6 py-8 text-sm text-slate-500 sm:flex-row lg:px-10">
-          <p>© 2026 NEXORA. All rights reserved.</p>
+          <p>© 2026 LUVAYEN. All rights reserved.</p>
           <p>Enterprise technology. Designed for what's next.</p>
         </div>
         <section id="contact-form" className="border-t border-white/10 bg-[#0b1220] px-6 py-24">

@@ -57,7 +57,7 @@ function ServicesContent() {
         </Link>
 
         <p className="mt-12 text-sm font-semibold uppercase tracking-[0.25em] text-blue-400">
-          NEXORA Services
+          LUVAYEN Services
         </p>
 
         {service ? (
